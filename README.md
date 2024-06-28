@@ -1,5 +1,5 @@
 ## Run
 
 ```bash
-flask run --debug
+flask --app tutorIA_docretrieval run --debug
 ```
